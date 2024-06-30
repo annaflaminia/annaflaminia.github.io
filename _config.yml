@@ -241,6 +241,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/teaching.md # Asa removing "teaching" and "repositories" tabs
+  - _pages/repositories.md
   - purgecss.config.js
   - README.md
   - readme_preview/
