@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bebini.github.io/sitemap.xml
+Sitemap: https://annaflaminia.github.io/sitemap.xml
